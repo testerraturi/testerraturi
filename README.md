@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@shashankraturi" target="blank"><img src="https://img.shields.io/twitter/follow/@shashankraturi?logo=twitter&style=for-the-badge" alt="@shashankraturi" /></a> </p>
 
-- 🌱 I’m currently learning **Automation (selenium with JAVA)**
+- 🌱 I’m currently learning **Automation (selenium with PYTHON)**
 
 - 📫 How to reach me **shashank.raturii@gmail.com**
 
